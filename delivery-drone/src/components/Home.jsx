@@ -7,7 +7,7 @@ import { CiDeliveryTruck } from "react-icons/ci";
 
 const Home = () => {
   return (
-    <div className='flex flex-col justify-center items-center p-4'>
+    <div className='flex flex-col justify-center items-center p-4 mb-18'>
     <div className='w-full mb-6'>
         <h1 className='text-4xl text-center mb-2'>DroneExpress</h1>
         <p className='text-gray-500 text-center'>Fast, Reliable drone delivery at your convinience</p>
